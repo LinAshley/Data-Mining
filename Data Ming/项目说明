@@ -1,0 +1,17 @@
+开始第一次数据展示
+#数据清洗项目
+
+1、选择一个主题
+In this case, we’ll look at the SAT scores of high schoolers, along with various demographic and other information about them. 
+
+2、补充数据
+Once you have a good topic, it’s good to scope out other datasets that can enhance the topic or give you more depth to explore. 
+
+3、获取背景信息
+New York City is divided into 5 boroughs, which are essentially distinct regions.
+Schools in New York City are divided into several school district, each of which can contains dozens of schools.
+Not all the schools in all of the datasets are high schools, so we’ll need to do some data cleaning.
+Each school in New York City has a unique code called a DBN, or District Borough Number.
+By aggregating data by district, we can use the district mapping data to plot district-by-district differences.
+
+4、理解数据
